@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://el-hugewin-lucky-penny-power-scatter-248.onrender.com/sitemap.xml
